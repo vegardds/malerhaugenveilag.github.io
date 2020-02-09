@@ -31,13 +31,13 @@
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath9377">
+       id="clipPath989">
       <path
-         sodipodi:nodetypes="ccccccccccccc"
-         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -564.23938,-116.56618 h -3.02348 c 0,0 -0.35417,1.1405 -0.74395,1.3413 h -3.2122 l 0.69879,-7.62214 h 9.57159 l 2.83975,9.28762 4.74403,1.46998 0.28398,6.21402 -2.02123,0.56794 -0.53454,-0.15034 h -9.10857 z"
-         id="path9379"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         id="path991"
+         d="M 6.4617611,283.73104 H 3.4102138 c 0,0 0.047581,0.88689 -0.3458176,1.08956 l -3.68046643,-0.003 0.73868565,-7.42563 H 9.7830595 l 1.4295375,11.41177 3.886036,0.11386 2.625224,5.60354 -2.039993,0.57321 -0.539502,-0.15174 H 5.9512353 Z"
+         style="fill:none;stroke:#000000;stroke-width:0.26703948px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccccccccc" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="-191.82623"
-     inkscape:cy="736.49004"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="37.600808"
+     inkscape:cy="24.238407"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,44 +77,40 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-277.08)">
-    <g
-       id="g856"
-       transform="translate(-52.025149,160.77987)">
-      <flowRoot
-         transform="matrix(0.26703947,0,0,0.26703947,634.47286,240.18205)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         id="flowRoot9313"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="flowRegion9315"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-             y="-468.90887"
-             x="-2145.7144"
-             height="1082.8572"
-             width="3220"
-             id="rect9317" /></flowRegion><flowPara
-           id="flowPara9331">alerhaugen </flowPara></flowRoot>      <path
-         transform="matrix(1.0092831,0,0,1.0092831,627.49646,240.43241)"
-         clip-path="url(#clipPath9377)"
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path9339"
-         d="m -569.63401,-115.12195 1.13421,-7.8096 2.64582,7.08706 2.71672,-7.15793 2.91536,18.45737"
-         style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <flowRoot
-         clip-path="url(#clipPath9372)"
-         transform="matrix(0.26703947,0,0,0.26703947,639.59359,229.25979)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.98611109;stroke:none"
-         id="flowRoot9323"
-         xml:space="preserve"><flowRegion
-           style="fill:#000000;fill-opacity:0.98611109"
-           id="flowRegion9325"><rect
-             style="fill:#000000;fill-opacity:0.98611109"
-             y="-392.12317"
-             x="-2175"
-             height="187.5"
-             width="404.28571"
-             id="rect9327" /></flowRegion><flowPara
-           id="flowPara9329">veilag</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9313"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26703947,0,0,0.26703947,582.44771,400.96192)"><flowRegion
+         id="flowRegion9315"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect9317"
+           width="3220"
+           height="1082.8572"
+           x="-2145.7144"
+           y="-468.90887"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara9331">alerhaugen </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9323"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.98611109;stroke:none"
+       transform="matrix(0.26703947,0,0,0.26703947,591.27263,390.03966)"
+       clip-path="url(#clipPath9372)"><flowRegion
+         id="flowRegion9325"
+         style="fill:#000000;fill-opacity:0.98611109"><rect
+           id="rect9327"
+           width="404.28571"
+           height="187.5"
+           x="-2175"
+           y="-392.12317"
+           style="fill:#000000;fill-opacity:0.98611109" /></flowRegion><flowPara
+         id="flowPara9329"> eilag</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.11000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0.26821683,284.99685 1.35970697,-8.38646 2.670381,7.15285 2.74194,-7.22438 3.0427082,19.34765 2.678906,-7.77213 v 0"
+       id="path983"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       clip-path="url(#clipPath989)"
+       transform="translate(0.52916667)" />
   </g>
 </svg>
